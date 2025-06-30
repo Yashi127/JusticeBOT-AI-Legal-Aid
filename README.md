@@ -10,4 +10,5 @@ pinned: false
 short_description: 'Chief Justice BOT: Legal Rights Assistant Powered by Gemini '
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at [https://huggingface.co/docs/hub/spaces-config-reference](https://huggingface.co/spaces/yashi127/JusticeBot-AI_Legal_Aid)
+
